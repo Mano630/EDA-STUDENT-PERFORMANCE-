@@ -1,4 +1,4 @@
-## EDA-STUDENT-PERFORMANCE-
+## EDA-STUDENT-PERFORMANCE
 # Student Performance Analysis (EDA)
 
 ## Introduction
@@ -48,7 +48,7 @@ The primary objectives of this project are:
 
 ## Dataset Link
 The data for this project is sourced from the Kaggle dataset:
-- **Dataset Link:** [Movies Dataset][(https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)]
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)
 
 ## Technologies Used
 
