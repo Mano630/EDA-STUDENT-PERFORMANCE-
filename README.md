@@ -1,4 +1,4 @@
-## EDA-STUDENT-PERFORMANCE
+# EDA-STUDENT-PERFORMANCE
 # Student Performance Analysis (EDA)
 
 ## Introduction
